@@ -1,0 +1,7 @@
+search_task:
+  description: >
+    "given this Notion page {page_id} wit recursive child content inclusion. what do you know about tool use in crewai?"
+
+  expected_output: |
+    - information about tool use in crewai
+# - The search results should accurately reflect the `search_query`    
